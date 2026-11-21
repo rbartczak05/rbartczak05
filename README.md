@@ -1,66 +1,86 @@
-# Hi there 👋, I'm Remigiusz Bartczak
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A100FF,100:460073&height=200&section=header&text=Remigiusz%20Bartczak&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%40%20Accenture&descAlignY=58&descSize=18" alt="header" />
+</p>
 
-### 👨‍💻 Aspiring Backend Developer (Java / Spring Boot) | IT Student
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A100FF&center=true&vCenter=true&width=600&lines=Java+%26+Spring+Boot+Developer;Backend+%40+Accenture;Applied+CS+Student+%40+Lodz+University+of+Technology;Building+robust%2C+scalable+backends+%E2%98%95" alt="Typing SVG" />
+  </a>
+</p>
 
-I am an Applied Computer Science student at Lodz University of Technology (Politechnika Łódzka), specializing in Infrastructure and Network Applications. My main focus is building robust and scalable backend solutions using the Java ecosystem. I also have experience teaching programming, which has honed my communication and problem-solving skills.
-
----
-
-### 🚀 About Me
-- 🎓 Currently in my 3rd year of **Applied Computer Science** at Lodz University of Technology.
-- 🌱 Actively developing my skills in **Java, Spring Boot, and database architecture** (both SQL and NoSQL).
-- 👨‍🏫 Experienced in **teaching programming** to children and teenagers, breaking down complex technical concepts into easily understandable lessons.
-- 🎯 **Looking for:** Junior Java Developer / Backend Intern opportunities.
-- 💬 Ask me about: **Java, Spring, Relational Databases, or Math/Physics!**
-
----
-
-### 💻 Tech Stack
-
-**Languages & Core**
-
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frameworks & Libraries**
-
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-
-**Databases**
-
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
-
-**Tools & Architecture**
-
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=databricks&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p align="center">
+  <a href="https://linkedin.com/in/remigiusz-bartczak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:bartczakremigiusz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=rbartczak05&style=for-the-badge&color=A100FF&label=Profile+views" alt="Profile views" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 👨‍💻 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rbartczak05&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbartczak05&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
+I'm a **Backend Developer at [Accenture](https://www.accenture.com)** and an **Applied Computer Science** student at **Lodz University of Technology** (Politechnika Łódzka), specializing in *Infrastructure and Network Applications*.
+
+I focus on building **robust and scalable backend solutions** in the Java ecosystem. I've also taught programming to kids and teenagers — which taught me how to turn complex technical ideas into something anyone can understand.
+
+- 💼 Working as a **Backend Developer @ Accenture**
+- 🎓 3rd year of **Applied Computer Science** @ TUL
+- 🌱 Growing in **Java, Spring Boot** and **database architecture** (SQL & NoSQL)
+- 👨‍🏫 Former **programming teacher** for children and teenagers
+- 💬 Ask me about **Java, Spring, relational databases, or Math/Physics!**
 
 ---
 
-### 📫 Let's Connect!
+## 🛠️ Tech Stack
 
-<a href="https://linkedin.com/in/remigiusz-bartczak" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:bartczakremigiusz@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mongodb,redis,git,postman,docker,idea&perline=10" alt="Tech stack icons" />
+</p>
+
+<details>
+<summary><b>📋 Full list</b></summary>
+<br />
+
+| Area | Technologies |
+|---|---|
+| **Languages & Core** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white) |
+| **Frameworks** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white) |
+| **Tools & Architecture** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rbartczak05&show_icons=true&theme=tokyonight&hide_border=true&title_color=A100FF&icon_color=A100FF&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbartczak05&layout=compact&theme=tokyonight&hide_border=true&title_color=A100FF" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rbartczak05&theme=tokyonight&hide_border=true&ring=A100FF&fire=A100FF&currStreakLabel=A100FF" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rbartczak05&theme=tokyo-night&hide_border=true&color=A100FF&line=A100FF&point=ffffff&area=true" alt="Contribution graph" />
+</p>
+
+---
+
+## 🤝 Let's Connect!
+
+<p align="center">
+  Always happy to talk about backend architecture, Spring, databases — or a good math puzzle. 🧮
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/remigiusz-bartczak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:bartczakremigiusz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:460073,100:A100FF&height=120&section=footer" alt="footer" />
+</p>
