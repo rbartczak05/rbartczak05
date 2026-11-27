@@ -24,7 +24,7 @@ I'm a **Full Stack Developer at [Accenture](https://www.accenture.com)** and an 
 I build applications end to end: **robust, scalable backends** in the Java ecosystem and the **frontends** that sit on top of them. I've also taught programming to kids and teenagers — which taught me how to turn complex technical ideas into something anyone can understand.
 
 - 💼 Working as a **Full Stack Developer @ Accenture**
-- 🎓 3rd year of **Applied Computer Science** @ TUL
+- 🎓 4rd year of **Applied Computer Science** @ TUL
 - 🌱 Growing in **Java, Spring Boot, React** and **database architecture** (SQL & NoSQL)
 - 👨‍🏫 Former **programming teacher** for children and teenagers
 - 💬 Ask me about **Java, Spring, relational databases, or Math/Physics!**
